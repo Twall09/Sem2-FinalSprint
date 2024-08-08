@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pet Bed",
+      "price": 29.99,
+      "image": "/Images/bed.jpeg",
+      "description": "A comfortable bed for your furry friend to rest."
+    },
+    {
+      "id": 2,
+      "name": "Dog Food",
+      "price": 19.99,
+      "image": "/Images/dogfood.jpeg",
+      "description": "Amazing tasting food ready to fulfill your dogs needs."
+    },
+    {
+      "id": 3,
+      "name": "Cat Toy",
+      "price": 9.99,
+      "image": "/Images/cattoy.png",
+      "description": "A durable, interactive toy to keep your cat entertained."
+    }
+  ]
+}
