@@ -4,16 +4,16 @@ Welcome to Pet Paradise, an eCommerce platform built with React
 
 # Features
 
-- Home Page: Start your journey on the Home page, where you can click the See Products button to browse our featured products.
+  -> Home Page: Start your journey on the Home page, where you can click the See Products button to browse our featured products.
 Product Options: Each product allows you to:
 
-- See Details: Get more information about the product.
-Add to Cart: Quickly add items to your shopping cart.
-About Page: Learn more about what Pet Paradise is all about with a brief description of our store and mission.
+  -> See Details: Get more information about the product.
+- Add to Cart: Quickly add items to your shopping cart.
+- About Page: Learn more about what Pet Paradise is all about with a brief description of our store and mission.
 
-- Shopping Cart: Review your selected items, where you can:
-Remove from Cart: Modify your cart by removing unwanted items.
-Proceed to Checkout: Ready to buy? Proceed to checkout and fill out the required information on the displayed form.
+  -> Shopping Cart: Review your selected items, where you can:
+- Remove from Cart: Modify your cart by removing unwanted items.
+- Proceed to Checkout: Ready to buy? Proceed to checkout and fill out the required information on the displayed form.
 
 
 
